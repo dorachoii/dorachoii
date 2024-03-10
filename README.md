@@ -1,4 +1,4 @@
-### Hi there 👋
+### Tech Stack 💾
 
 <!--
 **dorachoii/dorachoii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity)
+![Csharp](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp)
+![cplusplus](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus)
