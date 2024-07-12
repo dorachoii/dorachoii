@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 ### Currently Studying🐥
 
 ![Swift](https://img.shields.io/badge/swift-FFFFF0?style=for-the-badge&logo=swift)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hellodora7)](https://solved.ac/hellodora7/)
+
